@@ -376,6 +376,10 @@ body {
   color: var(--dark);
 }
 
+.content main .statistics .atm {
+  width: 21rem;
+}
+
 .content main .statistics li img {
   border-radius: 5%;
 }
